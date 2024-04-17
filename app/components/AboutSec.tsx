@@ -27,7 +27,7 @@ export default function AboutSec() {
           </p>
 
           <p className='desc mb-5'>
-          My commitment goes beyond mere satisfaction; I relentlessly pursue my clients' financial objectives until they are achieved. This unwavering dedication has become my signature in the industry, ensuring no one is left behind in reaching their goals.
+          My commitment goes beyond mere satisfaction; I relentlessly pursue my clients&rsquo; financial objectives until they are achieved. This unwavering dedication has become my signature in the industry, ensuring no one is left behind in reaching their goals.
           </p>
         </div>
 

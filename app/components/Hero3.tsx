@@ -14,7 +14,7 @@ export default function Hero3() {
           About Me
         </h1>
         <p className="w-[500px] max-xl:w-full text-slate-gray/60 text-lg max-sm:text-base font-montserrat my-6">
-        Unlock your inner potential with me as your guide; true success emanates from within, not from external sources. Let's embark on this journey together towards personal and financial fulfillment.
+        Unlock your inner potential with me as your guide; true success emanates from within, not from external sources. Let&rsquo;s embark on this journey together towards personal and financial fulfillment.
         </p>
 
         <Button
