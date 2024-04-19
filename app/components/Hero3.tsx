@@ -20,7 +20,7 @@ export default function Hero3() {
         <Button
           bgColor="#eaefe1"
           label={"Start today!"}
-          href="/contact"
+          href="https://brokercheck.finra.org/individual/summary/5066006"
           imgURL={IoIosArrowRoundForward}
           textColor="black"
         />
