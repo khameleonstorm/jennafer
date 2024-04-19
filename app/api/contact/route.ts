@@ -149,7 +149,7 @@ export async function POST(req: NextRequest) {
               <table width="600" cellspacing="0" cellpadding="0">
                 <tr>
                   <td class="header">
-                    <img class="logo" src="https://www.loreleielisabeth.com/_next/static/media/logo.c3444820.svg" alt="loreleielisabeth">
+                    <img class="logo" src="https://www.jennaferbeaverturner.com/_next/static/media/logo.36a9b151.svg" alt="Jennafer">
                   </td>
                 </tr>
                 <tr>
@@ -164,8 +164,8 @@ export async function POST(req: NextRequest) {
                 </tr>
                 <tr>
                   <td class="footer">
-                    <img class="footer-logo" src="https://www.loreleielisabeth.com/_next/static/media/logo.c3444820.svg" alt="loreleielisabeth">
-                    <p class="footer-message">© 2015 loreleielisabeth | All Rights Reserved</p>
+                    <img class="footer-logo" src="https://www.jennaferbeaverturner.com/_next/static/media/logo.36a9b151.svg" alt="Jennafer">
+                    <p class="footer-message">© 2015 Jennafer | All Rights Reserved</p>
                   </td>
                 </tr>
               </table>
