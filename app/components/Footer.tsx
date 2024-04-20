@@ -26,6 +26,9 @@ export default function Footer() {
               <FaTelegramPlane width={20} height={20} /> 
               </a>
           </div>
+          <p className="text-white-400 text-base mt-3 font-montserrat leading-normal">
+            support@jennaferbeaverturner.com
+          </p>
         </div>
 
         <div className="flex flex-1 flex-wrap gap-36 max-sm:gap-20">
